@@ -1,6 +1,6 @@
 # Transformer-based-Tagging-and-Training-Framework-
 
-This project implements a one-layer, single-headed Transformer model using Python for some simple natural-language tasks. The model is tested and trained on synthetic tasks such as generating text for identifying part-of=speech tag.
+This project implements a one-layer, single-headed Transformer model using Python for some simple natural-language tasks. The model is tested and trained on synthetic tasks such as generating text for identifying part-of-speech tag. This project is adapted from CS440 Artificial Intelligence at University of Illinois Urbana-Champaign
 
 ## data
 This folder contains the training and testing datasets for the model. 
